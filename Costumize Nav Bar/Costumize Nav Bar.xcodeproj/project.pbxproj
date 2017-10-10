@@ -14,6 +14,7 @@
 		9ACEC6C51F8C80DC00D0FF18 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9ACEC6C31F8C80DC00D0FF18 /* LaunchScreen.storyboard */; };
 		9ACEC6D01F8C80DD00D0FF18 /* Costumize_Nav_BarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ACEC6CF1F8C80DD00D0FF18 /* Costumize_Nav_BarTests.swift */; };
 		9ACEC6DB1F8C80DD00D0FF18 /* Costumize_Nav_BarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ACEC6DA1F8C80DD00D0FF18 /* Costumize_Nav_BarUITests.swift */; };
+		9ACEC6E91F8C83B000D0FF18 /* Bass_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ACEC6E81F8C83B000D0FF18 /* Bass_logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9ACEC6D61F8C80DD00D0FF18 /* Costumize Nav BarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Costumize Nav BarUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9ACEC6DA1F8C80DD00D0FF18 /* Costumize_Nav_BarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Costumize_Nav_BarUITests.swift; sourceTree = "<group>"; };
 		9ACEC6DC1F8C80DD00D0FF18 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9ACEC6E81F8C83B000D0FF18 /* Bass_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bass_logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		9ACEC6B91F8C80DC00D0FF18 /* Costumize Nav Bar */ = {
 			isa = PBXGroup;
 			children = (
+				9ACEC6E81F8C83B000D0FF18 /* Bass_logo.png */,
 				9ACEC6BA1F8C80DC00D0FF18 /* AppDelegate.swift */,
 				9ACEC6BC1F8C80DC00D0FF18 /* ViewController.swift */,
 				9ACEC6BE1F8C80DC00D0FF18 /* Main.storyboard */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9ACEC6C51F8C80DC00D0FF18 /* LaunchScreen.storyboard in Resources */,
+				9ACEC6E91F8C83B000D0FF18 /* Bass_logo.png in Resources */,
 				9ACEC6C21F8C80DC00D0FF18 /* Assets.xcassets in Resources */,
 				9ACEC6C01F8C80DC00D0FF18 /* Main.storyboard in Resources */,
 			);
